@@ -1,0 +1,11 @@
+ollama
+scapy
+python-nmap
+requests
+paramiko
+pycryptodome
+beautifulsoup4
+python-dotenv
+pyyaml
+colorama
+tabulate
